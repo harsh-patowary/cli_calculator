@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rick/dev/cpp/cli_calculator/build",
+  "command": "/usr/bin/c++  -I/home/rick/dev/cpp/cli_calculator/include -std=c++20 -Wall -Wextra -Werror -o CMakeFiles/calc.dir/src/main.cpp.o -c /home/rick/dev/cpp/cli_calculator/src/main.cpp",
+  "file": "/home/rick/dev/cpp/cli_calculator/src/main.cpp",
+  "output": "CMakeFiles/calc.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rick/dev/cpp/cli_calculator/build",
+  "command": "/usr/bin/c++  -I/home/rick/dev/cpp/cli_calculator/include -std=c++20 -Wall -Wextra -Werror -o CMakeFiles/calc.dir/src/Lexer.cpp.o -c /home/rick/dev/cpp/cli_calculator/src/Lexer.cpp",
+  "file": "/home/rick/dev/cpp/cli_calculator/src/Lexer.cpp",
+  "output": "CMakeFiles/calc.dir/src/Lexer.cpp.o"
+}
+]
